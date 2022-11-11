@@ -20,7 +20,7 @@
 
     * esto te abrira una url en el http://localhost:3000 con tu resume!!!
 
-    * para parar el localhost desde powershell CTRL+C
+    * para parar el localhost desde powershell CTRL+C (3 veces)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
