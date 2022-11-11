@@ -1,19 +1,22 @@
 
+## Instrucciones Basicas    
+
     * si no tienes choco instalado, abrir powershell con permiso de administrador
       Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
-     * si no tienes git instalado
+    * si no tienes git instalado
       choco install -y git
      
     git clone https://github.com/cuchorapido/cv.git
     cd cv
-
 
     * si no tienes node js instalado
       choco install -y nodejs  --version=18.9.0
 
     npm install
     npm start
+
+    * esto te abrira una url en el http://localhost:3000 con tu resume!!!
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
