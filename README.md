@@ -4,8 +4,10 @@
 
     * si no tienes choco instalado, abrir powershell con permiso de administrador
       Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+      
     * si no tienes node js instalado
       choco install -y nodejs  --version=18.9.0
+
     npm install
     npm start
 
