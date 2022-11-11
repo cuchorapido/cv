@@ -22,6 +22,7 @@
 
     * para parar el localhost desde powershell CTRL+C (3 veces)
 
+Si quieren cambiar algo en el resume solamente editen esto src\fixtures\resume.json con sus datos.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
