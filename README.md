@@ -1,6 +1,8 @@
 
 ## Instrucciones Basicas    
 
+    * abrir powershell 
+
     * si no tienes choco instalado, abrir powershell con permiso de administrador
       Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 
@@ -17,6 +19,8 @@
     npm start
 
     * esto te abrira una url en el http://localhost:3000 con tu resume!!!
+
+    * para parar el localhost desde powershell CTRL+C
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
