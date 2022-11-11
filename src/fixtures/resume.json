@@ -1,0 +1,523 @@
+{
+    "basic": {
+        "name": "Saul Jaramillo",
+        "label": "Cloud | DevOps Architect",
+        "image": "https://a3b2c4cic3c2c5e5.s3.amazonaws.com/profile.jpg",
+        "email": "lxhxr@lxhxr.com",
+        "summary": [
+            "Motivated out of the box thinker with 8+ years of technical, architectural and mentoring experience in development, DevOps, ",
+            "and Cloud practices and products. Having a solid \"developer first\" background combined with an unquenchable thirst for ",
+            "learning and mastering cutting edge technologies has opened the avenues for expanding my knowledge, vision and possibilities in the Cloud, ",
+            "non-relational Databases, CI/CD Pipelines, infrastructure as code, automation, distributed system / microservices architectures, blochcain validators, IoT and SPA worlds. ",
+            "During this process, I've also acquired exceptional critical-thinking / problem-solving skills, great technological expertise and the important ability to quickly adapt to new technologies, ",
+            "new requirements and new ways of working (independently and in a team setting locally and remotely)."
+        ],
+        "location": {
+            "address": "Miami",
+            "city": "FL"
+        },
+        "profiles": [
+            {
+                "network": "DescribeMe",
+                "username": "saul_jaramillo",
+                "url": "https://describeme.net/saul_jaramillo"
+            },
+            {
+                "network": "twitter",
+                "username": "lxhxr",
+                "url": "https://twitter.com/lxhxr"
+            }
+        ]
+    },
+    "work": [
+    {
+        "name": "Stake Capital Group",
+        "location": "Full Remote",
+        "position": "Head of DevOps",
+        "url": "https://stake.capital",
+        "startDate": "03/2021",
+        "endDate": "Present",
+        "summary": "All things mainnet and testnet blockchain full node/validator + key management automation and deployment via terragrunt and ansible on AWS multi account cross-region architecture via AWS CI/CD stack for Stake DAO and BlackPool DAO!",
+        "highlights": [
+            "Validators/Nodes in over 28 different EVM/Non-EVM blockchains such as Ethereum 2, Solana, Avalanche, Celo, Harmony, Cosmos, Polygon, Elrond, Near, Gnosis, Terra etc..."
+        ]
+    },
+        {
+            "name": "Hyland",
+            "location": "Westlake, OH / Remote",
+            "position": "Senior Devops Engineer",
+            "url": "https://hyland.com",
+            "startDate": "07/2020",
+            "endDate": "06/2021",
+            "summary": "Combined extensive Development, Infrastructure, Security, Engineering, and Consultancy experience form a best in class DevOps practice in the Alfresco PaaS.",
+            "highlights": [
+            ]
+        },
+        {
+            "name": "AVIO Consulting",
+            "location": "Dallas, TX / Remote",
+            "position": "Architect",
+            "url": "https://avioconsulting.com",
+            "startDate": "11/2019",
+            "endDate": "07/2020",
+            "summary": "Infrastructure as code design, implementation, full configuration / testing automation and documentation of modularized reference multi-account, multi-region architectures.",
+            "highlights": [
+                "Infrastructure as code design, implementation, full configuration / testing automation and documentation of modularized reference multi-account, multi-region architectures.",
+                "Composed multiple knowledge base articles describing Terraform modularized architectures, Test Driven infrastructure and Infrastructure As Code Collaborative CI/CD workflows.",
+                "Created and publicly showedcased fully-automated production-grade HashiCorp Vault stack infrastructure configuration and deployment using HashiCorp Terraform and ansible."
+            ]
+        },
+        {
+            "name": "PayLess Apartments",
+            "location": "Davie, FL",
+            "position": "Principal Solutions Architect",
+            "url": "https://paylessapartments.com",
+            "startDate": "05/2019",
+            "endDate": "11/2019",
+            "summary": "Led and drove the successful roll out of cloud native architecture/lift-and-shift to support the current stack (WordPress + MySql + ELK) and future organization needs (React.Js and React Native + MongoDB).",
+            "highlights": [
+                "Planned, implemented and ensured ongoing management of high-quality coding standards and best practices during SDLC/CICD.",
+                "Leveraged AWS Serverless tools like CloudFormation, ECS Fargate, Lambda, SNS, SQS and S3, EFS, ELK, System Manager, DynamoDB and Step Functions to create highly available b2b integration work flows and internal services.",
+                "Conducted training sessions on architecture and automation and associated technologies inspiring, encouraging, and raising the overall team knowledge."
+            ]
+        },
+        {
+            "name": "Claim Ruler (777 Partners)",
+            "location": "Davie, FL",
+            "position": "Senior DevOps Engineer",
+            "url": "https://claimruler.com",
+            "startDate": "05/2017",
+            "endDate": "05/2019",
+            "summary": "Worked with managers and other architects to deliver a full end-to-end infrastructure as code across multiple AWS Accounts. Responsible for the selection and implementation of tools and processes which enable rapid development and deployment of software infrastructure, tools, and systems.",
+            "highlights": [
+                "Full spectrum CI/CD pipelines and jobs creation via jenkins using github, ansible, docker, newman, Linux shell scripts, PowerShell, ruby and python",
+                "Worked closely with QA team to implement headless Selenium/Cucumber parallel testing to support canary + blue/green deployments to Production environments",
+                "Assisted in architecture and best practices in the main C# Web App Code / React.JS and React Native Mobile App Code.",
+                "Created troubleshooting tool via an Amazon Alexa skill reducing application outages by allowing quick fault analysis and response via voice by the Dev. team based on Datadog and SumoLogic metrics."
+            ]
+        },
+        {
+            "name": "Kaplan University",
+            "location": "Ft. Lauderdale, FL",
+            "position": "Software/Build Engineer II",
+            "url": "https://kaplan.edu",
+            "startDate": "08/2016",
+            "endDate": "05/2017",
+            "summary": "Prototyped, orchestrated and automated full end to end CI/CD Pipelines using cutting edge technologies for all SDLC stages for traditional and Serverless architectures.",
+            "highlights": [
+                "Architected high performance / provider agnostic on premise-to-cloud storage SDK. (C#/AWS)",
+                "Gained extensive hands on experience with AWS in CloudFormation (EC2, ECS, S3, IAM, Route53, RDS, Lambda, Api Gateway, EFS, SES, SNS, SQS, ElasticCache).",
+                "Focused on process improvement, best practices, automation, reducing costs, continuous integration, continuous delivery, continuous deployment practices catered to core business needs. (vagrant, packer, ansible, docker, jenkins)."
+            ]
+        },
+        {
+            "name": "Santander Private Banking (Santander Group)",
+            "location": "Miami, FL",
+            "position": "Development Analyst Officer",
+            "url": "https://www.santanderbank.com",
+            "startDate": "05/2011",
+            "endDate": "08/2016",
+            "summary": "Developed and managed multiple global-impacting critical applications and interfaces to support Credit Risk and Compliance departments",
+            "highlights": [
+                "Led requirement gathering, development, and launch of a Credit Risk Management System which enhanced average loan disbursement times from 20-30 days to 1-3 hours by automating complex process workflows, loan document generation and reduced operational risk in Miami and Geneva, Switzerland offices (C# / Oracle)",
+                "Worked closely with cross functional teams through migration and re-engineering of multiple legacy technologies to an integral solution to handle incoming and outgoing Fed. and Swift payments including OFAC verification and core system Integration via SOAP/REST web services (C#, SQL & Oracle).",
+                "Wrote hundreds of properly optimized stored procedures composed of complex T-SQL queries and PowerShell Scripts to account for C.R.U.D operations, financial reporting, and SSIS tasks."
+            ]
+        },
+        {
+            "name": "Barry University",
+            "location": "Miami Shores, FL",
+            "position": "Application Developer",
+            "url": "https://www.barry.edu/",
+            "startDate": "07/2008",
+            "endDate": "08/2011",
+            "summary": "Translated software requirements from new and existing clients into workable programming code in for campus wide used software.",
+            "highlights": [
+                "Developed Equipment Inventory Management System (VB.Net, C#, SQL)",
+                "Developed SQL scripts to Insert, Update, Delete and Merge data in the database tables along with SQL joins and cursors."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Barry University",
+            "area": "Business Administration",
+            "studyType": "Masters",
+            "startDate": "05/2009",
+            "endDate": "05/2011",
+            "gpa": "3.2",
+            "courses": []
+        },
+        {
+            "institution": "Barry University",
+            "area": "Computer Science",
+            "studyType": "Bachelors",
+            "startDate": "05/2005",
+            "endDate": "08/2008",
+            "gpa": "3.3"
+           
+        },
+        {
+            "institution": "AWS",
+            "area": "AWS Certified Solutions Architect – Associate",
+            "studyType": "Certification",
+            "startDate": "12/2019",
+            "endDate": "12/2022"          
+        },
+        {
+            "institution": "HashiCorp",
+            "area": "HashiCorp Certified: Vault – Associate",
+            "studyType": "Certification",
+            "startDate": "01/2020",
+            "endDate": "01/2021"         
+        },
+        {
+            "institution": "HashiCorp",
+            "area": "HashiCorp Certified: Vault - C.H.I.P - (Certified HashiCorp Implementation Partner)",
+            "startDate": "03/2020",
+            "studyType": "Certification",
+            "endDate": "03/2021"
+        },
+        {
+            "institution": "HashiCorp",
+            "area": "HashiCorp Certified: Terraform – Associate",
+            "startDate": "01/2020",
+            "studyType": "Certification",
+            "endDate": "01/2021"         
+        },
+        {
+            "institution": "HashiCorp",
+            "area": "HashiCorp Certified: Terraform - C.H.I.P - (Certified HashiCorp Implementation Partner)",
+            "startDate": "03/2020",           
+            "studyType": "Certification",
+            "endDate": "03/2021"
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Seminarios Caminos",
+            "position": "Sound Engineer",
+            "url": "https://caminosusa.com",
+            "startDate": "07/2005",
+            "endDate": "Present",
+            "summary": "A World Service organization dedicated to empowering human beings through the effective development of their leadership skills and emotional intelligence.",
+            "highlights": [
+                "Graduated from Level 1, 2 and 3."
+            ]
+        },
+        {
+            "organization": "Serve The People",
+            "position": "Network Engineer and PC Support Specialist",
+            "url": "https://www.yelp.com/biz/serve-the-people-miami",
+            "startDate": "06/2010",
+            "endDate": "12/2010",
+            "summary": "Setup and configured donated PCs with Linux to give away in low income areas along with 1 mile wide wireless network setup in the focus area."
+        }
+    ],
+    "skills": [
+        {
+            "name": "AWS - Compute",
+            "level": "Master",
+            "keywords": [
+                "EC2",
+                "Lambda",
+                "ECR",
+                "ECS",
+                "Fargate",
+                "EKS"
+            ]
+        },
+        {
+            "name": "AWS - Storage",
+            "level": "Master",
+            "keywords": [
+                "S3",
+                "S3 Glacier",
+                "EBS",
+                "EFS"
+            ]
+        },
+        {
+            "name": "AWS - Database",
+            "level": "Master",
+            "keywords": [
+                "RDS",
+                "DynamoDB",
+                "ElasticCache"
+            ]
+        },
+        {
+            "name": "AWS - Application Integration",
+            "level": "Master",
+            "keywords": [
+                "Step Functions",
+                "SNS",
+                "SQS"
+            ]
+        },
+        {
+            "name": "AWS - Analytics",
+            "level": "Master",
+            "keywords": [
+                "ElasticSearch",
+                "Glue"
+            ]
+        },
+        {
+            "name": "AWS - Developer Tools",
+            "level": "Master",
+            "keywords": [
+                "CodeCommit",
+                "CodePipeline",
+                "CodeBuild"
+            ]
+        },
+        {
+            "name": "AWS - Security, Identity, & Compliance",
+            "level": "Master",
+            "keywords": [
+                "IAM", 
+                "Cognito",
+                "GuardDuty",
+                "KMS",
+                "Secrets Mgr."
+            ]
+        },
+        {
+            "name": "AWS - Management & Governance",
+            "level": "Master",
+            "keywords": [
+                "CloudWatch",
+                "CloudFormation",
+                "CloudTrail",
+                "SSM"
+            ]
+        },
+        {
+            "name": "AWS - Customer Engagement",
+            "level": "Master",
+            "keywords": [
+                "SES"
+            ]
+        },
+        {
+            "name": "AWS - Business Applications",
+            "level": "Master",
+            "keywords": [
+                "Alexa for Business",
+                "WorkMail"
+            ]
+        },
+        {
+            "name": "AWS - Networking & Content Delivery",
+            "level": "Master",
+            "keywords": [
+                "VPC",
+                "CloudFront",
+                "Route 53",
+                "API Gateway"
+            ]
+        },
+        {
+            "name": "C#",
+            "level": "Master",
+            "keywords": [
+            
+                "Architecture",
+                "OOP",
+                "Design Patterns"
+            ]
+        },
+        {
+            "name": "HashiCorp",
+            "level": "Master",
+            "keywords": [
+                "Terraform (Terragrunt)",
+                "Vault",
+                "Packer",
+                "Vagrant",
+                "Consul"
+            ]
+        },
+        {
+            "name": "Linux",
+            "level": "Master",
+            "keywords": [
+                "Bash",
+                "Shell Script",
+                "Ubuntu",
+                "CentOS"
+            ]
+        },
+        {
+            "name": "CI/CD",
+            "level": "Master",
+            "keywords": [
+                "Jenkins",
+                "Git",
+                "Docker",
+                "Ansible",
+                "AWS CI/CD"
+            ]
+        },
+        {
+            "name": "Automated Testing",
+            "level": "Master",
+            "keywords": [
+                "Newman",
+                "Selenium",
+                "Terratest",
+                "test-kitchen"
+            ]
+        },
+        {
+            "name": "MongoDB",
+            "level": "Master",
+            "keywords": [
+                "NoSql Modeling",
+                "Integration",
+                "Sharding"
+                
+            ]
+        },
+        {
+            "name": "React & React Native",
+            "level": "Master",
+            "keywords": [
+                "Sagas",
+                "Redux",
+                "API Integration",
+                "Deployment"
+            ]
+        },
+        {
+            "name": "SQL Server",
+            "level": "Master",
+            "keywords": [
+                "Configuration",
+                "Integration",
+                "Store Procedures" 
+            ]
+        },
+        {
+            "name": "Windows Server",
+            "level": "Master",
+            "keywords": [
+                "Administration",
+                "Powershell",
+                "IIS",
+                "AD"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cryptocurrency",
+            "keywords": [
+                "Trading",
+                "Mining",
+                "Blockchain"
+            ]
+        },
+        {
+            "name": "IoT",
+            "keywords": [
+                "Home Automation"
+            ]
+        },
+        {
+            "name": "Streaming",
+            "keywords": [
+                "Twitch"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Dr. Hernan Londoño (Professional)",
+            "reference": "Associate CIO, Barry University"
+        },
+        {
+            "name": "Eric Lozano (Professional)",
+            "reference": "CIO, Bayview Financial"
+        },
+        {
+            "name": "Jose Oliveros (Professional)",
+            "reference": "CIO, Santander Private Banking"
+        },
+        {
+            "name": "Robert Colvin (Professional)",
+            "reference": "VP of IT, Claim Ruler"
+        },
+        {
+            "name": "Bianca Berardi (Professional)",
+            "reference": "Managing Partner & CFO, PayLess Apartments"
+        },
+        {
+            "name": "Brandon Dean (Professional)",
+            "reference": "Founder and CEO, AVIO Consulting"
+        }
+    ],
+    "projects": [
+        {
+            "name": "DescribeMe",
+            "description": "Founding, managing, planning, orchestrating, developing all business, marketing and technology aspects of DescribeMe, A new innovating rating based social platform.",
+            "highlights": [
+                "Defined and implemented processes to migrate full framework monolith (WebApi MVC + SQL Server) architecture to (dotnet core + Kafka + MongoDB + Redis) microservice oriented cloud architecture on a fully automated CI/CD pipeline.",
+                "Leading and mentoring small teams through the design, development and launch of Android / iOS mobile applications, started migration to React Native",
+                "Designed and executed strategy for launch of new product that reached 153 countries and over 4200 cities in 3 months after launch",
+                "Developed full database models including tables, views, indexes, stored procedures, triggers, SQL Jobs and customized functions for SQL Server and MongoDB"
+            ],
+            "keywords": [
+              
+                ".NETCore (C#)",
+                "MongoDB",
+                "Kafka",
+                "Redis",
+                "AWS"
+            ],
+            "startDate": "2016-08-24",
+            "endDate": "2016-08-24",
+            "url": "https://describeme.net",
+            "roles": [
+                "Founder",
+                "Solutions Architect",
+                "Full Stack Developer"
+            ],
+            "entity": "DescribeMe",
+            "type": ""
+        },
+        {
+            "name": "cuchorapido",
+            "description": "We talk about life and its oddities, \"learning in public\" about trends, mindfulness, parenting, astrology, cannabis, crypto, NFTs, DeFi, AWS, terraform, CICD, programming, software architecture, whatever.",
+            "highlights": [
+                "Donated and managed all received funds using a Gnosis Safe multi-signature dApp for decentralized fund management."
+            ],
+            "keywords": [
+              
+                "Twitch",
+                "Gnosis",
+                "Streaming",
+                "NFT"
+            ],
+            "startDate": "2022-03-29",
+            "endDate": "Current",
+            "url": "https://twitch.tv/cuchorapido",
+            "roles": [
+                "Streamer"
+            ],
+            "entity": "Twitch Affiliate - Cuchorapido",
+            "type": ""
+        }
+    ]
+}
